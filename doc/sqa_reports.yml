@@ -1,0 +1,6 @@
+Applications:
+    krusty:
+        app_types:
+            - KRUSTYApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
